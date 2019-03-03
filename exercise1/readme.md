@@ -8,8 +8,8 @@ of use to a human.
 This involves printing the data in a human friendly format & adding appropriate
 symbols ($), and performing certain calculations to make things easier to read.
 
-1. Read the file into a python variable
-1. Interpret the file line-by-line using either split(), or a CSV library of
+1. Read data.csv into a python variable
+1. Interpret it line-by-line using either split(), or a CSV library of
 your choice
 1. Iterate over each line in the file, printing its comments separated by a
 single space
